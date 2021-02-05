@@ -1,6 +1,11 @@
 This project is from a quick tutorial on youtube to familiarize myself with react.js. 
+
 Link: https://www.youtube.com/watch?v=w7ejDZ8SWv8
+
 Original repo: https://github.com/bradtraversy/react-crash-2021
+
+JSON Server: https://github.com/typicode/json-server
+
 
 # Getting Started with Create React App
 
