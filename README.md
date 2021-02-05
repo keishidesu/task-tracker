@@ -1,3 +1,7 @@
+This project is from a quick tutorial on youtube to familiarize myself with react.js. 
+Link: https://www.youtube.com/watch?v=w7ejDZ8SWv8
+Original repo: https://github.com/bradtraversy/react-crash-2021
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
